@@ -12,5 +12,9 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
    // bu shaxriyor
+
+        val a= 5
+        val b=8
+        val c= a*b
     }
 }
